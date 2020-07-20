@@ -17,10 +17,14 @@
 
 - [Crafting discoverable repositories](discoverable/)
 - [Useful templates](templates/)
-- [Measuring success](metrics/)
 - [Repository ownership](repo-ownership/)
 - [Workflows](workflows/)
 - [Overcoming contributor friction](contributor-friction/)
 - [The Trusted Committer role (TC)](tc-role/)
+
+### Governance
+
+- [Measuring success](metrics/)
+- [Rollout checklists](rollout-checklists/)
 
 This repository is licensed under [CC-by-4](../LICENSE) (c) 2019 GitHub, Inc.
