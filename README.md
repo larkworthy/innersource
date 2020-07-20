@@ -13,10 +13,14 @@
 - [Understanding cultural ingredients](cultural-ingredients/)
 - [Working through cultural resistance](cultural-resistance/)
 
+### Developer Enablement
+
 - [Crafting discoverable repositories](discoverable/)
 - [Useful templates](templates/)
 - [Measuring success](metrics/)
 - [Repository ownership](repo-ownership/)
 - [Workflows](workflows/)
+- [Overcoming contributor friction](contributor-friction/)
+- [The Trusted Committer role (TC)](tc-role/)
 
 This repository is licensed under [CC-by-4](../LICENSE) (c) 2019 GitHub, Inc.
